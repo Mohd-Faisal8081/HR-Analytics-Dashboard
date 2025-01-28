@@ -44,4 +44,9 @@ Created interactive charts and visuals, including:
 - https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/Dashboard.pdf
 
 # DataSet
-- 
+- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/HR_Analytics.xlsx
+
+# Author 
+- Mohd Faisal
+- LinkedIn: www.linkedin.com/in/mohdfaisal-data-analyst
+- Email: mohd.faisal8278@gmail.com
