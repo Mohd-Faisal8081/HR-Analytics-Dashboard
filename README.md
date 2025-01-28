@@ -39,3 +39,9 @@ Created interactive charts and visuals, including:
 - Performance Analysis: Employees in the Sales department show the highest variability in performance. 
 - Attrition Trends: The attrition rate is highest among employees with less than 2 years of experience. 
 - Retention Impact: Retention initiatives reduced attrition by 15% in the last quarter. 
+
+# Dashboard
+- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/Dashboard.pdf
+
+# DataSet
+- 
