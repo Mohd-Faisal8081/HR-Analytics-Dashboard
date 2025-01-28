@@ -7,7 +7,6 @@ This project showcases an interactive Power BI dashboard that provides insights 
 # Tools & Technologies Used 
 - Power BI: For creating dynamic and interactive dashboards. 
 - Excel: For data preprocessing and cleaning. 
-- Dataset: HR Analytics Dataset (Provide the link if hosted elsewhere, like Google Drive). 
 
 # Project Overview 
 - The HR Analytics Dashboard is designed to analyze and visualize key human resource metrics to help organizations: 
