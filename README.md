@@ -9,7 +9,7 @@ This project showcases an interactive Power BI dashboard that provides insights 
 - Excel: For data preprocessing and cleaning. 
 
 # Project Overview 
-- The HR Analytics Dashboard is designed to analyze and visualize key human resource metrics to help organizations: 
+The HR Analytics Dashboard is designed to analyze and visualize key human resource metrics to help organizations: 
 - Understand employee demographics and trends. 
 - Identify performance outliers. 
 - Monitor attrition rates and retention strategies. 
