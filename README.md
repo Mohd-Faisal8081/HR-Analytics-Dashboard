@@ -44,10 +44,10 @@ Created interactive charts and visuals, including:
 4. **Retention Impact**: Retention initiatives reduced attrition by 15% in the last quarter. 
 
 ### **Dashboard**
-- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/Dashboard.pdf
+- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/Dashboad.pdf
 
 ### **DataSet**
-- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/HR_Analytics.xlsx
+- https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard/blob/main/Dataset.xlsx
 
 ### **Author** 
 **Mohd Faisal**
