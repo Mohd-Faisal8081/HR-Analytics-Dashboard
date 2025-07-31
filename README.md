@@ -1,11 +1,11 @@
 # HR-Analytics-Dashboard
-Interactive Power BI dashboard that provides insights into employee demographics, performance, attrition, and HR metrics to support data-driven decision-making in human resource management.
+Interactive **Tableau** dashboard that provides insights into employee demographics, performance, attrition, and HR metrics to support data-driven decision-making in human resource management.
 
 ### **Introduction** 
-This project showcases an **interactive Power BI dashboard** that provides insights into key HR metrics, such as employee performance, attrition trends, demographics, and overall workforce health. It enables HR managers to make data-driven decisions to improve employee retention, performance, and satisfaction. 
+This project showcases an **interactive Tableau dashboard** that provides insights into key HR metrics, such as employee performance, attrition trends, demographics, and overall workforce health. It enables HR managers to make data-driven decisions to improve employee retention, performance, and satisfaction. 
 
 ### **Tools & Technologies Used** 
-- **Power BI**: For creating dynamic and interactive dashboards. 
+- **Tableau**: For creating dynamic and interactive dashboards. 
 - **Excel**: For data preprocessing and cleaning. 
 
 ### **Project Overview** 
@@ -26,13 +26,16 @@ The **HR Analytics Dashboard** is designed to analyze and visualize key human re
 - Standardized job roles and department names. 
 
 2. **Data Transformation** 
-- Used DAX formulas to calculate metrics like attrition rate, average performance score, and retention rate. 
+- Calculate metrics like attrition rate, average performance score, and retention rate. 
 
 3. **Visualization** 
 Created interactive charts and visuals, including:  
-- Bar and column charts for performance metrics. 
-- Pie charts for employee distribution. 
-- Line charts for attrition trends over time. 
+- **KPI cards** for Total Employees, Attrition Count, Active Employees, Attrition Rate, and Average Age.
+- **Pie charts** to show department-wise and gender-wise attrition.
+- **Bar charts** for education field-wise attrition and age-wise employee distribution.
+- **Histogram slider** to filter age bins dynamically.
+- **Heatmap** to visualize job satisfaction ratings by job roles.
+- **Donut charts** showing attrition rate by gender across different age groups.
 
 ### **Results & Insights** 
 1. **Demographics**: 60% of the workforce is aged 25–35, with a majority in the IT and Sales departments. 
@@ -48,5 +51,5 @@ Created interactive charts and visuals, including:
 
 ### **Author** 
 **Mohd Faisal**
-- LinkedIn: www.linkedin.com/in/mohdfaisal-data-analyst
-- Email: mohd.faisal8278@gmail.com
+- **LinkedIn**: www.linkedin.com/in/mohdfaisal-data-analyst
+- **Email**: mohd.faisal8278@gmail.com
